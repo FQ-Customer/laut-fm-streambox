@@ -23,9 +23,7 @@ Zeile 7: => $pfadweg <code>deine-domain.de</code> durch <code>den namen deiner d
 
 Zeile 10: => $bildformat <code>png</code> durch <code>die dateiendung deiner Bilder (Nur ein Format zul&auml;ssig)</code>
 
-## Bitte noch den Ordner uploads erstellen
-
-Bitte erstellen Sie noch den Ordner <code>uploads</code> in diesen werden die Bilder f&uuml;r die Playlisten geladen.
+---
 
 ## Kontakt
 
