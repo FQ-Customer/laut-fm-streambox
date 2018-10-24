@@ -25,6 +25,12 @@ Zeile 10: => $bildformat <code>png</code> durch <code>die dateiendung deiner Bil
 
 ---
 
+## Player
+
+Die Player m&uuml;ssen nicht angepasst werden diese werden mit hilfe von dem Station-attribut generiert. Nur f&uuml;r zus&auml;tzliche Player muss man Hand anlegen.
+
+---
+
 ## Kontakt
 
 Bei Fragen stehe ich Mike Weigand entweder im Forum: <url>https://forum.laut.fm/u/Mike_W_o-qg-club</url> oder per Email: fq-customer@outlook.com zur verf&uuml;gung.
